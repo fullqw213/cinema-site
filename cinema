@@ -1,0 +1,7 @@
+cd путь_до_папки/cinema-site
+git init
+git add .
+git commit -m "Первый коммит"
+git branch -M main
+git remote add origin https://github.com/ТВОЙ_АККАУНТ/cinema-site.git
+git push -u origin main
